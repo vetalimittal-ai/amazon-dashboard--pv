@@ -18,7 +18,7 @@ It helps stakeholders understand:
 
 ## 🖼 Dashboard Preview
 
-![Amazon Dashboard](amazon-dashboard.png)
+![Amazon Dashboard](amazon%20dashboard%20.png)
 
 ---
 
